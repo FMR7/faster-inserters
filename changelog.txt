@@ -2,7 +2,7 @@
 Version: 0.0.2
 Date: 2024-11-12
   Changes:
-    - FIX to work with the new inserter from Space Age
+    - FIX to work with 2.0
 ---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 2019-06-25
